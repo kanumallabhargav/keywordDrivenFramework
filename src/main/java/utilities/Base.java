@@ -40,6 +40,5 @@ public class Base
 		}
 		}
 		driver.manage().window().maximize();
-		driver.get("---GET-THIS-FROM-EXCEL-READER-");
 	}
 }
